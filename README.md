@@ -1,14 +1,14 @@
-# 🔎 Networkwalks — Week 2 Reconnaissance & Footprinting
+# Networkwalks — Week 2 Reconnaissance & Footprinting
 
-## 📌 Project Overview
+## Project Overview
 
-## 🎯 Objectives
+## Objectives
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
-## 🧪 Lab Environment
+## Lab Environment
 
-## 📋 Modules Completed
+## Modules Completed
 ### W2-PM1 — Kali Footprinting
 ### W2-PM2 — GHDB
 ### W2-PM3 — Maltego
@@ -36,17 +36,17 @@
 
 ### PM5 — Network Scanning with Zenmap
 
-## 📊 Findings & Observations
+## Findings & Observations
 
-## ⚠️ Problems Encountered & Troubleshooting
+## Problems Encountered & Troubleshooting
 
-## 🧠 What I Learned
+## What I Learned
 
-## 🔐 Security & Ethical Use
+## Security & Ethical Use
 
-## 📸 Evidence
+## Evidence
 
-## 🛠️ Tools & Resources
+## Tools & Resources
 
 ## 👤 Author
 
